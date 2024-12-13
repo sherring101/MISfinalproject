@@ -1,0 +1,24 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p {
+  border: 2px solid powderblue;
+}
+
+p {
+  border: 2px solid powderblue;
+  padding: 30px;
+}
+
+p {
+    font-family: 'Georgia', serif; 
+    color: #00008B; 
+}
+
+a {
+  border: 2px solid powderblue;
+}
